@@ -1,5 +1,3 @@
-[![Rust](https://github.com/0xfauzi/bitcoin_address_generator/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/0xfauzi/bitcoin_address_generator/actions/workflows/rust.yml)
-
 # Bitcoin Address Generator
 
 This Rust project implements a Bitcoin address generator. It creates a private key, derives the corresponding public key, and generates a Bitcoin address using the standard process.
